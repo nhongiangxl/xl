@@ -1,0 +1,106 @@
+<div id="customer_details" class="col-md-9">
+<h3 style="
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #090909;
+    width: 100%;
+    height: auto;
+">Chọn hình thức thanh toán</h3><div style="
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 40px;
+    border-radius: 5px;
+">
+
+
+
+<div class="custom-control custom-radio">
+  <input type="radio" class="custom-control-input" id="defaultChecked" name="defaultExampleRadios" checked="">
+  <label class="custom-control-label" for="defaultChecked">Chuyển khoản ngân hàng</label>
+</div>
+<div style="
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+">
+    <table class="payment_table" border="1" style="width:100%;border-collapse: collapse;">
+<tbody>
+<tr>
+<td colspan="2">&nbsp;Chủ tài khoản :&nbsp;<span style="font-size: medium;"><strong>PHẠM THỊ HUYỀN SÂM</strong></span></td>
+</tr>
+<tr>
+<td><strong>SỐ TÀI KHOẢN</strong></td>
+<td><strong>NGÂN HÀNG</strong></td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">0911000027999</p>
+</td>
+<td>
+<p>Ngân Hàng Ngoại Thương (<strong>Vietcombank</strong>) , chi nhánh Gò Vấp</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">251964819</p>
+</td>
+<td>
+<p>Ngân Hàng Á Châu (<strong>ACB</strong>), PGD Nguyễn Văn Lượng,TP Hồ Chí Minh.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">6380205534105</p>
+</td>
+<td>
+<p>Ngân Hàng Nông Nghiệp và Phát Triển Nông Thôn (<strong>Agribank</strong>) , chi nhánh Bình Thạnh.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">0103008746</p>
+</td>
+<td>
+<p>Ngân Hàng Đông Á,TP Hồ Chí Minh.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">104868094116</p>
+</td>
+<td>
+<p>Ngân hàng TMCP Công Thương Việt Nam&nbsp;(<b>VietinBank</b>), chi nhánh 9 TP.Hồ Chí Minh</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">19124842543012</p>
+</td>
+<td>
+<p>Ngân hàng TMCP Kỹ Thương Việt Nam (<b>Techcombank</b>), Chi Nhánh Nguyễn Oanh , Gò Vấp TP.Hồ Chí Minh</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+    <div class="custom-control custom-radio">
+  <input type="radio" class="custom-control-input" id="defaultUnchecked" name="defaultExampleRadios">
+  <label class="custom-control-label" for="defaultUnchecked">Tại văn phòng </label>
+</div>
+    <div class="custom-control custom-radio">
+  <input type="radio" class="custom-control-input" id="defaultUnchecked" name="defaultExampleRadios">
+  <label class="custom-control-label" for="defaultUnchecked">Default unchecked</label>
+</div>
+</div>
+
+
+
+
+
+
+
+                                                    
+                                                </div>
