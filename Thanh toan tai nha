@@ -1,0 +1,93 @@
+<div id="customer_details" class="col2-set ">
+	<div id="customer_details" class="col-md-12">
+		<h3 style="font-size: 1.5em;font-weight: 700;color: #090909;width: 100%;height: auto;">Chọn hình thức thanh toán</h3>
+		<div style="width: 100%;border: 1px solid #ddd;padding: 40px;border-radius: 5px;">
+			<div class="custom-control custom-radio">
+				<input type="radio" class="custom-control-input" id="defaultChecked" name="defaultExampleRadios" checked="">
+				<label class="custom-control-label" for="defaultChecked">Chuyển khoản ngân hàng</label>
+			</div>
+			<div class="custom-control custom-radio">
+				<input type="radio" class="custom-control-input" id="defaultChecked" name="defaultExampleRadios">
+				<label class="custom-control-label" for="defaultUnchecked">Tại văn phòng Xanh Lục</label>
+			</div>
+			<div class="custom-control custom-radio">
+				<input type="radio" class="custom-control-input" id="defaultUnchecked" name="defaultExampleRadios">
+				<label class="custom-control-label" for="defaultUnchecked">Tại nhà</label>
+			</div>
+
+			<div style="border: 1px solid #ddd;border-radius: 5px;padding: 30px;margin-top: 10px;margin-bottom: 20px;margin-left: 25px;">
+				<h4>Thông tin người mua</h4>
+				<div class="custom-control custom-checkbox">
+					<input type="checkbox" class="custom-control-input" id="defaultUnchecked">
+					<label class="custom-control-label" for="defaultUnchecked">Sử dụng thông tin của Địa chỉ giao hàng</label>
+				</div>
+				<div class="woocommerce-billing-fields">
+					<p><strong>Gửi đến địa chỉ dưới đây:</strong></p>
+					<div class="woocommerce-billing-fields__field-wrapper-outer">
+						<div class="woocommerce-billing-fields__field-wrapper">
+							<p id="billing_first_name_field" class="form-row form-row-first validate-required woocommerce-invalid woocommerce-invalid-required-field">
+							<label class="" for="billing_first_name">Họ &amp; Tên đệm
+							<abbr title="required" class="required">*</abbr>
+							</label>
+							<input type="text" value="" placeholder="" id="billing_first_name" name="first_name" class="input-text ">
+							<text style="color: red " id="log_ho"></text>
+							</p>
+							<p id="billing_last_name_field" class="form-row form-row-last validate-required">
+							<label class="" for="billing_last_name">Tên
+							<abbr title="required" class="required">*</abbr>
+							</label>
+							<input type="text" value="" placeholder="" id="billing_last_name" name="last_name" class="input-text ">
+							<text style="color: red " id="log_ten"></text>
+							</p>
+							<p id="billing_phone_field" class="form-row form-row-last validate-required validate-phone">
+							<label class="" for="billing_phone">Số Điện Thoại
+							<abbr title="required" class="required">*</abbr>
+							</label>
+							<input type="tel" value="" placeholder="" id="billing_phone" name="phone" class="input-text ">
+							<text style="color: red " id="log_phone"></text>
+							</p>
+							<p id="billing_email_field" class="form-row form-row-first validate-required validate-email">
+							<label class="" for="billing_email">Email
+							<abbr title="required" class="required">*</abbr>
+							</label>
+							<input type="email" value="" placeholder="" id="billing_email" name="email" class="input-text ">
+							<text style="color: red " id="log_email"></text>
+							</p>
+							<div class="clear"></div>
+							<p id="billing_company_field" class="form-row form-row-wide">
+							<label class="" for="billing_company">Tên Công Ty</label>
+							<input type="text" value="" placeholder="" id="billing_company" name="company" class="input-text ">
+							</p>
+							<p id="billing_country_field" class="form-row form-row-wide validate-required validate-email">
+							<label class="" for="billing_country">Tỉnh/Thành Phố
+							<abbr title="required" class="required">*</abbr>
+							</label>
+							<select onchange="load_county(this.value)" class="country_to_state country_select select2-hidden-accessible" id="billing_province" name="province" tabindex="-1" aria-hidden="true"><option value="0" selected="selected">Chọn Tỉnh/Thành phố</option><option value="63" class="level-0">Tỉnh Yên Bái</option><option value="62" class="level-0">Tỉnh Vĩnh Phúc</option><option value="61" class="level-0">Tỉnh Vĩnh Long</option><option value="60" class="level-0">Tỉnh Tuyên Quang</option><option value="59" class="level-0">Tỉnh Trà Vinh</option><option value="58" class="level-0">Tỉnh Tiền Giang</option><option value="57" class="level-0">Tỉnh Thừa Thiên Huế</option><option value="56" class="level-0">Tỉnh Thanh Hóa</option><option value="55" class="level-0">Tỉnh Thái Nguyên</option><option value="54" class="level-0">Tỉnh Thái Bình</option><option value="53" class="level-0">Tỉnh Tây Ninh</option><option value="52" class="level-0">Tỉnh Sơn La</option><option value="51" class="level-0">Tỉnh Sóc Trăng</option><option value="50" class="level-0">Tỉnh Quảng Trị</option><option value="49" class="level-0">Tỉnh Quảng Ninh</option><option value="48" class="level-0">Tỉnh Quảng Ngãi</option><option value="47" class="level-0">Tỉnh Quảng Nam</option><option value="46" class="level-0">Tỉnh Quảng Bình</option><option value="45" class="level-0">Tỉnh Phú Yên</option><option value="44" class="level-0">Tỉnh Phú Thọ</option><option value="43" class="level-0">Tỉnh Ninh Thuận</option><option value="42" class="level-0">Tỉnh Ninh Bình</option><option value="41" class="level-0">Tỉnh Nghệ An</option><option value="40" class="level-0">Tỉnh Nam Định</option><option value="39" class="level-0">Tỉnh Long An</option><option value="38" class="level-0">Tỉnh Lào Cai</option><option value="37" class="level-0">Tỉnh Lạng Sơn</option><option value="36" class="level-0">Tỉnh Lâm Đồng</option><option value="35" class="level-0">Tỉnh Lai Châu</option><option value="34" class="level-0">Tỉnh Kon Tum</option><option value="33" class="level-0">Tỉnh Kiên Giang</option><option value="32" class="level-0">Tỉnh Khánh Hòa</option><option value="31" class="level-0">Tỉnh Hưng Yên</option><option value="30" class="level-0">Tỉnh Hòa Bình</option><option value="29" class="level-0">Tỉnh Hậu Giang</option><option value="28" class="level-0">Tỉnh Hải Dương</option><option value="27" class="level-0">Tỉnh Hà Tĩnh</option><option value="26" class="level-0">Tỉnh Hà Nam</option><option value="25" class="level-0">Tỉnh Hà Giang</option><option value="24" class="level-0">Tỉnh Gia Lai</option><option value="23" class="level-0">Tỉnh Đồng Tháp</option><option value="22" class="level-0">Tỉnh Đồng Nai</option><option value="21" class="level-0">Tỉnh Điện Biên</option><option value="20" class="level-0">Tỉnh Đắk Nông</option><option value="19" class="level-0">Tỉnh Đắk Lắk</option><option value="18" class="level-0">Tỉnh Cao Bằng</option><option value="17" class="level-0">Tỉnh Cà Mau</option><option value="16" class="level-0">Tỉnh Bình Thuận</option><option value="15" class="level-0">Tỉnh Bình Phước</option><option value="14" class="level-0">Tỉnh Bình Dương</option><option value="13" class="level-0">Tỉnh Bình Định</option><option value="12" class="level-0">Tỉnh Bến Tre</option><option value="11" class="level-0">Tỉnh Bắc Ninh</option><option value="10" class="level-0">Tỉnh Bạc Liêu</option><option value="9" class="level-0">Tỉnh Bắc Kạn</option><option value="8" class="level-0">Tỉnh Bắc Giang</option><option value="7" class="level-0">Tỉnh Bà Rịa-Vũng Tàu</option><option value="6" class="level-0">Tỉnh An Giang</option><option value="5" class="level-0">Thành phố Hồ Chí Minh</option><option value="4" class="level-0">Thành phố Hải Phòng</option><option value="3" class="level-0">Thành phố Hà Nội</option><option value="2" class="level-0">Thành phố Đà Nẵng</option><option value="1" class="level-0">Thành phố Cần Thơ</option></select>
+							<text style="color: red " id="log_tp"></text>
+							</p>
+							<p id="billing_country_field" class="form-row form-row-wide validate-required validate-email">
+							<label class="" for="billing_country">Quận / Huyện
+							<abbr title="required" class="required">*</abbr>
+							</label>
+							<select autocomplete="country" class="country_to_state country_select select2-hidden-accessible" id="billing_country" name="country" tabindex="-1" aria-hidden="true">
+							<option value="0">Chọn Quận/Huyện </option>
+
+							</select>
+							<text style="color: red " id="log_q"></text>
+							</p>
+							<div class="clear"></div>
+							<p id="billing_address_1_field" class="form-row form-row-wide address-field validate-required">
+							<label class="" for="billing_address_1">Địa Chỉ
+							<abbr title="required" class="required">*</abbr>
+							</label>
+							<input type="text" value="" placeholder="Street address" id="billing_address_1" name="address" class="input-text ">
+							<text style="color: red " id="log_dc"></text>
+							</p>
+						</div>
+					</div>
+					<!-- .woocommerce-billing-fields__field-wrapper-outer -->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
