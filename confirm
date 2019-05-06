@@ -1,0 +1,148 @@
+<div id="content" class="site-content">
+	<div class="col-full">
+		<div class="row">
+			<div class="content-area" id="primary">
+				<main class="site-main" id="main">
+					<div class="type-page hentry">
+						<div class="entry-content">
+							<div class="woocommerce">
+								<form action="#" class="checkout woocommerce-checkout" method="post" name="checkout">
+									<div id="customer_details" class="col2-set ">
+										<div id="customer_details" class="col-md-12">
+											<div style="width: 100%;border: 1px solid #ddd;padding: 40px;border-radius: 5px;">
+												<h3>Cảm ơn bạn đã mua hàng tại XanhLuc.com!</h3><p>Mã số đơn hàng của bạn: </p>
+												<div style="background: #32c5fb;font-size: 19px;color: #fff;border: none;text-align: center;font-weight: 400;position: relative;border-radius: 0;width: 200px;margin-bottom: 10px;">8888888</div>
+												<p>Bạn có thể xem lại <a href="#">đơn hàng của tôi</a></p>
+												<p>Thời gian giao hàng dự kiến vào thứ..., ngày...</p>
+												<p>Thông tin chi tiết về đơn hàng đã được gửi đến địa chỉ mail <span>nhongiang@nhaphangmy.com</span>. Nếu không tìm thấy vui lòng kiểm tra trong hộp thư <strong>Spam hoặc <strong>Junk Folder</strong>.</strong></p>
+												<div class="alert alert-success" role="alert">
+													<p>Nhằm giúp việc xử lý đơn hàng nhanh hơn, XanhLuc.com sẽ gọi điện cho bạn để xác nhận đơn hàng.</p>
+												</div>
+												<h3>Hình thức thanh toán</h3>
+
+												<div class="custom-control custom-radio">
+													<input type="radio" class="custom-control-input" id="defaultChecked" name="defaultExampleRadios" checked="">
+													<label class="custom-control-label" for="defaultChecked">Chuyển khoản ngân hàng</label>
+												</div>
+												<p>Vui lòng chuyển khoản qua một trong các ngân hàng dưới đây. Hotline hỗ trợ: 1900 636 707</p>
+												<div style="border: 1px solid #ddd;border-radius: 5px;padding: 30px;margin-top: 10px;margin-bottom: 20px;margin-left: 25px;">
+													<table class="payment_table" border="1" style="width:100%;border-collapse: collapse;">
+														<tbody>
+															<tr>
+																<td colspan="2">Chủ tài khoản:&nbsp;<strong>PHẠM THỊ HUYỀN SÂM</strong></td>
+															</tr>
+															<tr>
+																<td><strong>SỐ TÀI KHOẢN</strong></td>
+																<td><strong>NGÂN HÀNG</strong></td>
+															</tr>
+															<tr>
+															<td>
+																0911000027999
+															</td>
+															<td>
+																Ngân Hàng Ngoại Thương (<strong>Vietcombank</strong>) , chi nhánh Gò Vấp
+															</td>
+															</tr>
+															<tr>
+																<td>
+																	251964819
+																</td>
+																<td>
+																	Ngân Hàng Á Châu (<strong>ACB</strong>), PGD Nguyễn Văn Lượng,TP Hồ Chí Minh.
+																</td>
+															</tr>
+															<tr>
+																<td>
+																	6380205534105
+																</td>
+																<td>
+																	Ngân Hàng Nông Nghiệp và Phát Triển Nông Thôn (<strong>Agribank</strong>) , chi nhánh Bình Thạnh.
+																</td>
+															</tr>
+															<tr>
+																<td>
+																	0103008746
+																</td>
+																<td>
+																	Ngân Hàng Đông Á,TP Hồ Chí Minh.
+																</td>
+															</tr>
+															<tr>
+																<td>
+																	104868094116
+																</td>
+																<td>
+																	Ngân hàng TMCP Công Thương Việt Nam&nbsp;(<b>VietinBank</b>), chi nhánh 9 TP.Hồ Chí Minh
+																</td>
+															</tr>
+															<tr>
+																<td>
+																	19124842543012
+																</td>
+																<td>
+																	Ngân hàng TMCP Kỹ Thương Việt Nam (<b>Techcombank</b>), Chi Nhánh Nguyễn Oanh , Gò Vấp TP.Hồ Chí Minh
+																</td>
+															</tr>
+														</tbody>
+													</table>
+												</div>
+												
+												<h5>Các câu hỏi thường gặp</h5>
+													<ul>
+														<li><a target="_blank" href="#">Xác nhận đơn hàng như thế nào?</a></li>
+														<li><a target="_blank" href="#">Thời gian giao hàng</a></li>
+														<li><a target="_blank" href="#">Chính sách đổi trả hàng</a></li>
+													</ul>
+											</div>
+										</div>
+									</div>
+									<!-- .col2-set -->
+									<h3 id="order_review_heading">Giỏ hàng của bạn</h3>
+									<div class="woocommerce-checkout-review-order" id="order_review">
+										<div class="feature widget-container" style="display: block;padding: 2.857em 1.929em;border: 1px solid #ddd;border-radius: 8px;margin-bottom: 25px;">
+											<h4 class="widget-title">Hỗ trợ mua hàng</h4>
+											<div>
+												<ul class="list-unstyled mb-0">
+													<li>
+														<i class="icon-phone toplink-icon">1900 636 707</i>
+													</li>
+													<li>
+														<i class="icon-mail toplink-icon">hotro@xanhluc.com</i>
+													</li>
+												</ul>
+											</div>
+										</div>
+										<div style="background-size: cover;background-position: center center;background-image: url( http://18.138.20.239/media/filer_public/64/cd/64cd74c7-02d4-4db6-bd80-0e43d58a2504/banner-left-6.png );padding: 30px;border-radius: 5px;" class="banner-bg">
+											<div class="caption">
+												<div class="banner-info">
+													<h3 class="title">
+														<strong>1000 mAh</strong>
+														<br>
+														<span>Power Bank Pro</span>
+													</h3>
+												</div>
+												<!-- .banner-info -->
+												<span class="price">$ 34.99</span>
+												<span class="banner-action button">Buy Now</span>
+											</div>
+											<!-- .caption -->
+										</div>
+									</div>
+									<!-- .woocommerce-checkout-review-order -->
+								</form>
+								<!-- .woocommerce-checkout -->
+							</div>
+							<!-- .woocommerce -->
+						</div>
+						<!-- .entry-content -->
+					</div>
+					<!-- #post-## -->
+				</main>
+				<!-- #main -->
+			</div>
+			<!-- #primary -->
+		</div>
+		<!-- .row -->
+	</div>
+	<!-- .col-full -->
+</div>
