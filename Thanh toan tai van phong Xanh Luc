@@ -1,0 +1,26 @@
+<div id="customer_details" class="col2-set ">
+	<div id="customer_details" class="col-md-12">
+		<h3 style="font-size: 1.5em;font-weight: 700;color: #090909;width: 100%;height: auto;">Chọn hình thức thanh toán</h3>
+		<div style="width: 100%;border: 1px solid #ddd;padding: 40px;border-radius: 5px;">
+			<div class="custom-control custom-radio">
+				<input type="radio" class="custom-control-input" id="defaultChecked" name="defaultExampleRadios" checked="">
+				<label class="custom-control-label" for="defaultChecked">Chuyển khoản ngân hàng</label>
+			</div>
+			
+			<div class="custom-control custom-radio">
+				<input type="radio" class="custom-control-input" id="defaultUnchecked" name="defaultExampleRadios">
+				<label class="custom-control-label" for="defaultUnchecked">Tại văn phòng Xanh Lục</label>
+			</div>
+			<div style="border: 1px solid #ddd;border-radius: 5px;padding: 30px;margin-top: 10px;margin-bottom: 20px;margin-left: 25px;">
+				<h3>Văn Phòng Xanh Lục</h3>
+				<p>Địa chỉ: 46 Nguyễn Thượng Hiền, Phường 1, Quận Gò Vấp, HCM</p>
+				<p>Hotline: 1900 636 707</p>
+				<p>Email: hotro@xanhluc.com</p>
+			</div>
+			<div class="custom-control custom-radio">
+				<input type="radio" class="custom-control-input" id="defaultUnchecked" name="defaultExampleRadios">
+				<label class="custom-control-label" for="defaultUnchecked">Tại nhà</label>
+			</div>
+		</div>
+	</div>
+</div>
