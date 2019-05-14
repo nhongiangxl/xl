@@ -1,0 +1,83 @@
+<div class="summary entry-summary">                            
+	<style>
+		.va-text {padding:9px;}
+		.star-rating {color: #f7941d;}
+		.label {margin-right:5px;width: 120px;display: inline-block;text-align: right;}
+		.share-icons i.mail-icon {color: #62ab00;}
+		.share-icons i.facebook-icon {color: #005bbd;}
+		.share-icons i.twitter-icon {color: #32c5fb;}
+		.share-icons i.pinterest-icon {color: #dc3545;}
+	</style>
+	<div class="detail-wrap">
+		<h1 style="font-size: 24px;">Smelly Can of Fart Bomb Spray - Smelly Stinky Fun Gag Gas Prank Joke Gift</h1>
+		<div class="pb-3 star-rating">
+			<i class="fas fa-star"></i>
+			<i class="fas fa-star"></i>
+			<i class="fas fa-star"></i>
+			<i class="fas fa-star"></i>
+			<i class="fas fa-star"></i>
+			<span>100 bình chọn sản phẩm này</span>
+		</div>
+		<hr />
+		<div style="border: 1px solid transparent;">
+			<div class="mb-3">
+				<div class="col-sm-12">
+					<div class="text-secondary">
+						<span class="col-form-label label">Tình trạng:</span>
+						<span class="col-form-label">New</span>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="cart-wrap rounded border">
+			<div>
+				<div class="col-sm-12 pt-3 pb-3">
+					<div class="text-secondary">
+						<span class="col-form-label label">Giá thị trường:</span>
+						<span class="col-form-label"><del>150,000 VNĐ</del></span>
+					</div>
+					<div class="text-secondary">
+						<span class="col-form-label label">Tiết kiệm:</span>
+						<span class="col-form-label">20%</span>
+					</div>
+					<div class="text-dark">
+						<span class="col-form-label label">Giá:</span>
+						<span class="col-form-label text-dark">130,000 VNĐ</span>
+					</div>
+					<div class="text-secondary">
+						<span class="col-form-label label">Số lượng:</span>
+						<span class="col-form-label"><input type="number" size="15" class="input-text qty text" title="Qty" value="1" name="quantity" id="quantity-input" style="width: 60px;"><br><small class="text-info" style="border-bottom: 1px dotted;">Mua nhiều hơn 1 sản phẩm sẽ được giảm 6,000 trên 1 sản phẩm.</small></span>
+					</div>
+				</div>
+				<div class="text-center">
+					<button class="mb-4 rounded border" style="background: #32c5fb;border-color: #0bf !important;color: #fff;text-transform: uppercase;padding: 13px 30px;margin-right: 0px;width: 216px;" value="185" name="add-to-cart" type="button">Mua Ngay</button>
+					<button class="single_add_to_cart_button button alt mb-4 border" style="border-radius: 5px;color: grey;padding: 13px 30px;margin-right: 0px;flex: auto;margin: 0 auto;" value="185" name="add-to-cart" type="button"><i class="fas fa-shopping-cart" style="
+					margin-right: 10px;
+					"></i>Thêm vào giỏ hàng</button>
+					<div class="text-center bg-light rounded-bottom">
+						<button class="single_add_to_cart_button button alt" style="border-radius: 5px;border-color: transparent;color: #b5babe;border-width: 1px;padding: 13px 30px;margin-right: 0px;margin: 0 auto;" value="185" name="add-to-cart" type="button"><i class="far fa-heart" style="margin-right: 10px;"></i>Theo dõi</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="pt-2 pb-2 col-sm-12 share-icons text-right text-secondary">
+			<span>Chia sẻ</span>
+			<i class="far fa-envelope mail-icon"></i>
+			<i class="fab fa-facebook-square facebook-icon"></i>
+			<i class="fab fa-twitter twitter-icon"></i>
+			<i class="fab fa-pinterest pinterest-icon"></i>
+		</div>
+		<div class="detail-footer">
+			<div class="text-secondary">
+				<table>
+					<tbody>		
+						<tr><td class="text-right p-1" width="30%">Giao hàng:</td><td class="p-1">Sản phẩm này dự kiến sẽ về tới Việt Nam từ Chưa xác định đến Chưa xác định.</td></tr>
+						<tr><td class="text-right p-1" width="30%">Thanh toán:</td><td class="p-1">Chuyển khoản ngân hàng; Tại văn phòng Xanh Lục; Tại nhà</td></tr>
+						<tr><td class="text-right p-1" width="30%">Lưu ý:</td><td class="p-1">Hàng quốc tế được bán trên eBay, giá bán đã bao gồm các loại thuế, phí nhập khẩu. Khách Hàng cần thanh toán trả trước và không thể hủy đơn hàng sau khi đã đặt mua. XanhLuc.com là đơn vị trung gian đảm bảo thanh toán và nhập hộ hàng hóa, không có chức năng bảo hành, hướng dẫn sử dụng và không xuất hóa đơn VAT cho các đơn hàng này. Hàng quốc tế chỉ áp dụng hình thức trả hàng – hoàn tiền trong trường hợp lỗi kỹ thuật, lỗi do Nhà Sản Xuất. Thời gian giao hàng từ 15 đến 20 ngày từ ngày thanh toán.</td></tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div><!-- .detail-wrap -->
+</div><!-- .summary -->
