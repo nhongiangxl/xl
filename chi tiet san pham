@@ -1,0 +1,22 @@
+<div class="detail-footer">
+	<div class="text-secondary" style="font-size: 15px;">
+		<table>
+			<tbody>
+				<tr><td class="text-right p-1" width="30%">Giao hàng:</td><td class="p-1">Một ngày về tới kho hàng tại Mỹ.<br>
+				<small>Sản phẩm này dự kiến sẽ về tới Việt Nam từ ngày 30 tháng 5 năm 2019 đến ngày 07 tháng 6 năm 2019.</small></td></tr>
+				<tr><td class="text-right p-1" width="30%">Thanh toán:</td><td class="p-1 pay-ico"><div>
+				<span title="Chuyển khoản ngân hàng"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="money-check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class=""><path fill="currentColor" d="M624 32H16C7.16 32 0 39.16 0 48v400c0 17.67 14.33 32 32 32h576c17.67 0 32-14.33 32-32V48c0-8.84-7.16-16-16-16zm-16 416H32V160h576v288zm0-320H32V64h576v64zM104 384h144c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8H104c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8zm288 0h144c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8H392c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8zm-288-96h208c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8H104c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8zm296 0h128c8.84 0 16-7.16 16-16v-64c0-8.84-7.16-16-16-16H400c-8.84 0-16 7.16-16 16v64c0 8.84 7.16 16 16 16zm16-64h96v32h-96v-32z" class=""></path></svg></span>
+				<span title="Tại văn phòng Xanh Lục"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="building" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class=""><path fill="currentColor" d="M192 107v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12zm116-12h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12zm-128 96h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12zm128 0h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12zm-128 96h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12zm128 0h-40c-6.627 0-12 5.373-12 12v40c0 6.627 5.373 12 12 12h40c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12zm140 205v20H0v-20c0-6.627 5.373-12 12-12h20V24C32 10.745 42.745 0 56 0h336c13.255 0 24 10.745 24 24v456h20c6.627 0 12 5.373 12 12zm-64-12V32H64v448h128v-85c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v85h128z" class=""></path></svg></span>
+				<span title="Thu tiền tại nhà"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="home" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class=""><path fill="currentColor" d="M541 229.16l-61-49.83v-77.4a6 6 0 0 0-6-6h-20a6 6 0 0 0-6 6v51.33L308.19 39.14a32.16 32.16 0 0 0-40.38 0L35 229.16a8 8 0 0 0-1.16 11.24l10.1 12.41a8 8 0 0 0 11.2 1.19L96 220.62v243a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-128l64 .3V464a16 16 0 0 0 16 16l128-.33a16 16 0 0 0 16-16V220.62L520.86 254a8 8 0 0 0 11.25-1.16l10.1-12.41a8 8 0 0 0-1.21-11.27zm-93.11 218.59h.1l-96 .3V319.88a16.05 16.05 0 0 0-15.95-16l-96-.27a16 16 0 0 0-16.05 16v128.14H128V194.51L288 63.94l160 130.57z" class=""></path></svg></span></div>
+				<div><small><ul>
+				<li>Chuyển khoản ngân hàng</li>
+				<li>Tại văn phòng Xanh Lục</li>
+				<li>Tại nhà khách hàng</li>
+				</ul></small></div>
+				</td></tr>
+				<tr><td class="text-right p-1" width="30%">Lưu ý:</td><td class="p-1">Hàng hóa được bán từ các nhà bán hàng nước ngoài.<br>
+				<small>Hàng quốc tế được bán trên eBay, giá bán đã bao gồm các loại thuế, phí nhập khẩu. Khách Hàng cần thanh toán trả trước và không thể hủy đơn hàng sau khi đã đặt mua. XanhLuc.com là đơn vị trung gian đảm bảo thanh toán và nhập hộ hàng hóa, không có chức năng bảo hành, hướng dẫn sử dụng và không xuất hóa đơn VAT cho các đơn hàng này. Hàng quốc tế chỉ áp dụng hình thức trả hàng – hoàn tiền trong trường hợp lỗi kỹ thuật, lỗi do Nhà Sản Xuất. Thời gian giao hàng từ 15 đến 20 ngày từ ngày thanh toán.</small></td></tr>
+			</tbody>
+		</table>
+	</div>
+</div>
