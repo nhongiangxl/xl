@@ -1,0 +1,29 @@
+<div class="heading-wrap mb-5">
+                        <nav class="woocommerce-breadcrumb mb-3">
+                        <a href="/" style="
+    background-color: #f5f5f5;
+    padding: 0.6em 1.067em;
+    border-radius: 4px;
+">Home</a>
+                        <span class="delimiter">
+                            <i class="tm tm-breadcrumbs-arrow-right"></i>
+                        </span>Hàng hiếm, độc lạ</nav>
+<h1 class="woocommerce-products-header__title page-title mb-2" id="title_categorys" style="
+">Hàng hiếm, độc lạ</h1>
+<h5 class="cat-desc mb-1 pb-1 text-secondary">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</h5><div class="share-wrap pt-1 pb-1">
+    <span>Chia sẻ:</span>
+    <span class="ml-1 mr-1" style="
+    color: burlywood;
+"><i class="fas fa-envelope"></i></span>
+    <span class="ml-1 mr-1" style="
+    color: #316ac1;
+"><i class="fab fa-facebook-square"></i></span>
+    <span class="ml-1 mr-1" style="
+    color: #6cd7ff;
+"><i class="fab fa-twitter"></i></span>
+    <span class="ml-1 mr-1" style="
+    color: #dc3545;
+"><i class="fab fa-pinterest"></i></span>
+</div><p><small class="text-secondary text-right">* Giá trên đây chưa bao gồm VAT, vui lòng xem sản phẩm chi tiết.</small></p>
+
+                    </div>
