@@ -1,0 +1,39 @@
+<li class="menu-item menu-item-has-children animate-dropdown dropdown show">
+	<a title="My Account" data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="true">
+		<i class="fas fa-bell"></i><span class="badge badge-pill badge-danger" style="">2</span><span class="caret"></span>
+	</a>
+	<ul role="menu" class="dropdown-menu show" x-placement="bottom-start" style="position: absolute;transform: translate3d(0px, 38px, 0px);top: 0px;left: 0px;will-change: transform;width: 255px;font-size: 12px;">
+		<li class="menu-item animate-dropdown border-bottom" style="padding: .6em .875em;font-weight: bold;">Thông báo</li>
+
+		<li class="menu-item animate-dropdown bg-light border-bottom" style="padding: .6em .875em;">
+			<div class="media">
+				<img class="mr-3" src="https://galleryplus.ebayimg.com/ws/web/153425950600_2_0_1/225x225.jpg" alt="Generic placeholder image" style="max-width: 64px;" />
+				<div class="media-body">
+					<p class="font-weight-bold">Women Transparent Alphabet Jelly Bag Messenger Handbag Crossbody Shoulder Bag</p><p class="text-secondary">Cras sit amet nibh libero, in gravida nulla...</p>
+					<p class="text-secondary"><i class="far fa-clock"></i> 1 tiếng</p>
+				</div>
+			</div>
+		</li>
+		<li class="menu-item animate-dropdown border-bottom" style="padding: .6em .875em;">
+			<div class="media">
+				<img class="mr-3" src="https://galleryplus.ebayimg.com/ws/web/153425950600_2_0_1/225x225.jpg" alt="Generic placeholder image" style="max-width: 64px;" />
+				<div class="media-body">
+					<p>Women Transparent Alphabet Jelly Bag Messenger Handbag Crossbody Shoulder Bag</p><p class="text-secondary">Cras sit amet nibh libero, in gravida nulla...</p>
+					<p class="text-secondary"><i class="far fa-clock"></i> 1 tiếng</p>
+				</div>
+			</div>
+		</li>
+		<li class="menu-item animate-dropdown border-bottom" style="padding: .6em .875em;">
+			<div class="media">
+				<img class="mr-3" src="https://galleryplus.ebayimg.com/ws/web/401408807710_2_0_1/225x225.jpg" alt="Generic placeholder image" style="max-width: 64px;" />
+				<div class="media-body">
+					<p>Cras sit amet nibh libero, in gravida nulla...</p>
+					<p class="text-secondary"><i class="far fa-clock"></i> 1 tiếng</p>
+				</div>
+			</div>
+		</li>
+		<li class="menu-item animate-dropdown text-center">
+			<a title="Xem tất cả" href="#">Xem tất cả</a>
+		</li>
+	</ul>
+</li>
